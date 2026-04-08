@@ -1,18 +1,17 @@
-import './Skills.css'
 
 function Skills() {
   const skillCategories = [
     {
       category: "Languages",
-      skills: ["Java", "JavaScript", "TypeScript", "Python", "C/C++", "C#", "Swift", "Bash", "HTML/CSS", "SQL", "R"]
+      skills: ["Java", "JavaScript", "TypeScript", "Python", "C/C++", "C#", "SwiftUI/UIKit", "HTML/CSS", "SQL"]
     },
     {
       category: "Frameworks & Tools",
-      skills: ["React", "Node.js", "Express", "Firebase", "MongoDB", "Spring Boot", "Kafka", "Hibernate", "Azure", "Bootstrap", "Git", "Figma", "JUnit", "MySQL", "DynamoDB", "Docker"]
+      skills: ["React", "React Native", "Node.js", "Express", "LangChain", "OpenAI API", "MongoDB", "Spring Boot", "Kafka", "AWS", "Azure", "Firebase", "Docker", "Git", "Figma"]
     },
     {
       category: "Concepts",
-      skills: ["REST APIs", "Cloud Deployment", "Data Structures & Algorithms", "UI/UX Design", "Agile", "Server-side Development", "Low-Level Design", "DB Integration", "Networking", "Software Design Principles", "SDLC"]
+      skills: ["Agentic AI Frameworks", "REST APIs", "LLM Integration", "Cloud Deployment", "UI/UX Design", "Data Structures & Algorithms", "Agile", "Software Design Principles"]
     }
   ]
 

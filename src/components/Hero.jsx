@@ -1,4 +1,3 @@
-import './Hero.css'
 
 function Hero() {
   const backgroundImage = `${import.meta.env.BASE_URL}UW-background.jpg`;
